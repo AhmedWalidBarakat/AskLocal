@@ -1,0 +1,9 @@
+chroma_db/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Source documents are user-supplied and often copyrighted/confidential —
+# never committed. Drop your own PDFs in this folder locally.
+*.pdf
