@@ -9,6 +9,8 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+![AskLocal screenshot](assets/screenshot.png)
+
 ## Why local?
 
 Organizations that handle sensitive or confidential documents — healthcare records, financial filings, legal contracts, internal engineering or safety procedures — often can't send that data to public cloud AI APIs due to privacy, compliance, or security requirements. AskLocal proves that a genuinely useful document Q&A assistant doesn't need the cloud: ingestion, embedding, retrieval, and generation all run on-device, with zero external API calls.
