@@ -17,11 +17,11 @@ Organizations that handle sensitive or confidential documents, such as healthcar
 
 ## Features
 
-- 📄 **Drop-in PDF ingestion**: point it at any folder of PDFs and it builds a searchable knowledge base
-- 🧠 **Grounded answers, not guesses**: retrieved passages are handed to the model as context, and it's explicitly instructed to say "I don't know" rather than hallucinate
-- 🔗 **Source citations**: every answer links back to the exact file and page it came from
-- 📊 **Live index stats**: sidebar shows how many documents and chunks are indexed, and which models are running
-- 🛰️ **Zero network calls at inference time**: embeddings and generation both run through a local Ollama instance
+- **Drop-in PDF ingestion**: point it at any folder of PDFs and it builds a searchable knowledge base
+- **Grounded answers, not guesses**: retrieved passages are handed to the model as context, and it's explicitly instructed to say "I don't know" rather than hallucinate
+- **Source citations**: every answer links back to the exact file and page it came from
+- **Live index stats**: sidebar shows how many documents and chunks are indexed, and which models are running
+- **Zero network calls at inference time**: embeddings and generation both run through a local Ollama instance
 
 ## How it works
 
