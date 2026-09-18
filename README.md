@@ -2,12 +2,12 @@
 
 **A fully local, privacy-preserving RAG chatbot. Ask questions about your own documents without a single byte leaving your machine.**
 
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-orchestration-1C3C3C)
-![Ollama](https://img.shields.io/badge/Ollama-local%20LLM-000000)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-vector%20store-FF6F00)
-![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-orchestration-1C3C3C?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-local%20LLM-000000?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-vector%20store-FF6F00?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 
 ![AskLocal screenshot](assets/screenshot.png)
 
